@@ -1,6 +1,7 @@
 - 🤓 Cursando análise e desenvolvimento de sistemas(Ufpr).
 - 📫contato
-    colaresdavi45@gmail.com 
+    colaresdavi45@gmail.com.
+    
 -🎮 Nas horas vagas gamer, curto um futebol e sair com os amigos. 
 
 <!---
